@@ -10,3 +10,5 @@ Code i.v.m. beleggen op de beurs
   * Indien uw pc al een container met de naam "beurs" gebruikt kan de var <code>NAAM</code> aangepast worden
   * De container bevat alle nodige python modules plus nog wat extra dat mogelijks later nog gebruikt gaat worden
 * <code>solb_br-1024383600-1025031600-1d.json</code> is enkel bedoeld om een idee te krijgen over de syntax van de json's
+
+Bij aanpassing aan notebooks een "Restart & Clear Output" doen voor de commit. (Maakt diff's leesbaar)
